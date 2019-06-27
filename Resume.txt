@@ -1,0 +1,168 @@
+Tolani Oyefule
+	
+	Contact Information:
+	610-639-3287 (Mobile)
+	Tolani.Oyefule@gmail.com
+	
+	Current Address:
+	5006 Pentridge Street 
+	Apartment #4
+	Philadelphia, PA 
+LinkedIn: | GitHub: | Devpost:
+	
+Education
+Pennsylvania State University
+College of Information Sciences and Technology
+B.Sc – Telecommunications
+MITx  21W.789x Building Mobile Experiences
+
+
+Cerner Electronic Healthcare Record
+IT Implementation Specialist
+Roper St. Francis HC Center, Charleston, SC
+2016
+•	Introduced individualized auto-text with Dragon Dictation 
+•	Improved quality while eliminating avoidable medical errors
+IT Implementation Consultant
+Buffalo women and Children’s, Buffalo, NY
+2015 – 2016
+•	Implemented smart templates and phrases to recall formatting preferences
+•	Oversaw risk management framework and communicated with client leadership
+
+IT Healthcare Strategy Consultant
+Millard Fillmore Suburban, Buffalo, NY
+2014 – 2015
+•	Provided direct end-user support services to physicians and nurses on the floor
+•	Created individualized patient lists to be shared with provider team
+Certifications
+•	Google Cloud Certified
+•	Couchbase Certified Professional
+•	Cyber Security Certificate
+•	Data Analysis Certificate
+•	Advanced Data Certificate
+
+
+
+
+
+Electronic Medical Record Implementation 
+Epic Team Lead: Beacon
+Lahey, MA
+2018-2018 
+〈	Organized 30 consultants to provide end-user support services to physicians and nurses
+〈	Created individualized Schedules for 24-hour support 
+〈	Created workflows to be shared by entire Provider Team
+〈	Improved quality while eliminating avoidable errors
+〈	Decreased Scheduling wait times by 80%
+Epic Specialist: Kaleidoscope
+Mayo Ophthalmology Clinic
+Albert Lea, MN
+2017 – 2017
+〈	Trained staff on Epic Kaleidoscope
+〈	Customized order Entry 
+〈	Assisted with re-importation of patient prescription information
+Epic Specialist: Ambulatory
+Med Express, Urgent Care Clinic
+Lehigh Valley, Pa
+2017 – 2017
+〈	Trained staff on Epic Ambulatory
+〈	Customized order Entry 
+〈	Assisted with workflow standardization
+
+Implementation Specialist: Radiant 
+U. Mass Medical Center
+Leominster, MA
+2017 – 2017
+〈	Trained staff on Power Chart and Order Entry 
+〈	Identified flaws in Med Reconciliation process
+〈	Assisted in Checking in and registering single & ongoing appointments
+Epic Implementation Specialist: Beacon
+Riverside Medical Group
+Hampton, VA
+2016 - 2017
+〈	Identified Cross over issues between Epic iCare and Centricity
+〈	Developed Infusion Workflow for Healthcare system
+•	Identified errors in lab workflow, printing labels, patient wristbands, IDs, and Printing patient wrap up information.
+	High-impact Information Systems Engineer: Implements industry leading software strategy to drive development
+Development Skills•	Java
+•	JavaScript
+•	Python
+•	Ruby
+
+Data Analytics
+•	Python
+•	Tensorflow.js
+•	Jupyter Notebooks
+•	Tableau
+
+Cloud Computing
+•	IBM Watson
+•	AZURE
+•	KUBERNETIES
+•	Docker
+
+Virtualization
+•	VirtualBox
+•	VMWare
+
+
+
+
+Business Oriented
+
+•	Business Intelligence
+•	Database Modeling
+•	Enterprise Architecture
+•	Transitive Communication
+•	Project Management
+
+Epic Modules
+•	Optime/Anesthesia
+•	Chronicle DBM
+•	Cadence
+•	Beacon
+•	CPOE
+•	Clin-doc
+•	Orders
+•	Ambulatory/Inpatient
+
+
+
+Pending Certifications
+•	Security Plus
+•	Network Plus
+•	AWS Associate Certification
+•	Tableau Certification
+•	Top Secret Security Clearance
+
+Career Summary: 
+I am a highly accomplished business professional with exceptional experience in Healthcare Informatics, Training and Project Management. I am flexible and enthusiastic. I consider myself a team player and strive to reach and surpass my projects objectives. I have demonstrated recognized results while working independently as well as in team efforts. I have facilitated successful project implementations in both ideal and constantly changing environments. I have found success by using my acquired Epic care combined with IT knowledge and good team spirit I have a proven track record of success through positive client interaction and have enhanced patient care through the use of Electronic Healthcare Records. 
+
+
+
+Project Management Skillsets:
+
+	• Excellent English language written and verbal communication skills to facilitate efficient and effective interaction with peers and customers
+Eagle Scout rank in the Boy Scouts of America
+	Worked as Troop Naturalist, responsible for identification and use of plant-life in the surrounding areas, locating spots for camping, and designating areas for pitching tents, and creating woodwork, eating, sleeping, and recreational areas.
+
+
+
+
+
+
+
+
+
+Hackathon Prize Winnings
+AVA; Autonomous vehicle Accountability Token; Consensus Hackathon first place grand prize winner
+Built application in ruby with Node.js, JavaScript, and Phone Gap
+Housing.gov Fairfax VA Hackathon first place grand prize winner
+Built web portal in Django framework with Python, making API calls with JSON.
+Mute-Mode: equals equals Hackathon 1st place Innovation prize winner 
+Chrome extension that muted curse words in YouTube/ Netflix: written in JavaScript
+Crash-Coin: first place winners of Drexel dragon hacks 2018
+Autonomous car crypto currency token used to automatically document crashes. 
+Front end written in JavaScript, Node.js 
+Prism: HackRU XII.   WINNER Best Smart Home Hack (Pariveda Solutions)
+Chrome Extension utilizing Muse Headband to calculate how focused the wearer is when consuming media, JavaScript / Node.js
